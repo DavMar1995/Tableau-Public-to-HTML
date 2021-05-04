@@ -1,6 +1,12 @@
 # Tableau Public to HTML
 
-[Toc]
+- [Tableau Public to HTML](#tableau-public-to-html)
+  - [Objective](#objective)
+  - [Usage](#usage)
+    - [FILE_DICT Mode](#file_dict-mode)
+    - [Terminal Mode](#terminal-mode)
+  - [Result](#result)
+  - [Customization](#customization)
 
 ## Objective
 
