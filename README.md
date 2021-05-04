@@ -14,7 +14,7 @@ By pasting the embedded code provided by Tableau Public, users only need to add 
 
 ## Usage
 
-There's a `.exe` file if you want to make it easy, just follow the instructions, and the result would be the same as well as the below modes.
+There's a `html_creator.exe` file if you want to make it easy, just follow the instructions, and the result would be the same as well as the below modes.
 
 If you want to execute without using the `.exe` file, there are two ways to use this tool:
 
@@ -46,4 +46,4 @@ All the files we created would be stored in the `html\<year>_<month>_<date>\` di
 
 ## Customization
 
-If you don't like the default color and layout, changing the code in `module.html` would be a good choice.
+If you don't like the default color and layout, you could change the code in `create_file` in `html_creator.py`, the layout in based on `module.html`.
