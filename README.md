@@ -46,4 +46,4 @@ All the files we created would be stored in the `html\<year>_<month>_<date>\` di
 
 ## Customization
 
-If you don't like the default color and layout, you could change the code in `create_file` at `html_creator.py`, the layout in based on `module.html`.
+If you don't like the default color and layout, you could change the code at `create_file` in `html_creator.py`, the layout in based on `module.html`.
